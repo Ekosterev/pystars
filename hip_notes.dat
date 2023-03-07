@@ -1,0 +1,487 @@
+#HIC    Text
+#-----	----------------------------------------------------------------------
+    40  joint system: NGC 7822 11 (A)/ 12 (B)
+   183  although bright, this star is not in SAO
+   223  component B = NSV 3
+   350  erroneously identified with CPD -57 10423 and
+   350    CPD -58 8130 in the literature
+   592  central star of a reflection nebula
+   755  erroneous value for proper motion in right ascension in GC and SAO
+  1021  central star of a reflection nebula
+  1158  component A = AD Cet
+  1501  component B is variable
+  1543  component A = V377 Cas
+  1860  other identification: LHS 1065. LHS 1066 (also G 242-52, V=14 mag)
+  1860    is at 11 arcsec
+  1902  globular cluster 47 Tucanae
+  2242  double system: theta= 215, rho= 36 arcsec, Delta V= 3.2 mag
+  2355  component A = GN And
+  3243  erroneously identified with GJ 1017 in the literature
+  3856  error in HIC identification: LHS 124 is about 20 arcsec NNE of
+  3856    the target
+  4189  double system with LP 990-139: theta=202, rho= 5 arcsec,
+  4189    Delta V= 0.9 mag
+  4427  component A = gam Cas
+  4655  component A = WW Psc
+  4831  double system: theta=170, rho= 61 arcsec, Delta V= 1 mag.
+  4831    Component B = CD -48 249
+  5348  component A = zet Phe
+  5745  erroneously identified with CPD -51 179 in the literature
+  7024  component A = SY Phe
+  7410  double system: theta= 120, rho= 90 arcsec, Delta V= 1.5 mag
+  8832  component A = gam Ari
+  8924  not LP 528-136 (error in HIC identification). Proper motion
+  8924    from ESO plates and AC
+  9230  component A = CI Eri
+  9258  component A = AA Cet
+  9383  component A = X Tri
+  9711  not detected by the satellite at the expected position or with the
+  9711    expected intensity
+  9786  erroneously identified with SAO 167562 in the literature
+  9879  erroneously identified with G 274-149 and LTT 1101 in the literature
+ 10280  component A = TZ Tri
+ 10704  component A = V438 Per
+ 10826  component A = omi Cet; component P = VZ Cet
+ 11174  component A = V440 Per
+ 11317  other identification: Woolley 9081
+ 11569  component A = iot Cas
+ 11604  other identification: Markarian 6 28
+ 11607  other identification: Markarian 6 23
+ 11612  other identification: Markarian 6 18
+ 11769  component A = V425 Per
+ 12035  double system: theta= 30, rho= 38 arcsec, Delta V= 0.9 mag
+ 12097  erroneously identified with BD +19 381 in the literature
+ 12101  erroneously identified with CD -48 698 and CPD -49 132
+ 12101    in the literature
+ 12495  component A = V482 Cas
+ 12981  component A = CU Eri
+ 13112  uncertain magnitude
+ 13215  this star is SW of LHS 1452, proper motion close to zero
+ 13218  erroneously quoted as a double system in the literature
+ 13290  erroneously identified with V500 Cas in the literature
+ 14879  component B = NSV 1074
+ 15087  erroneously identified with AGK +52 334 in the literature
+ 15286  erroneous proper motion in SAO, correct in NLTT
+ 15474  component A = tau 04 Eri
+ 15803  double system: theta= 215, rho= 21 arcsec, Delta B= 1.1 mag
+ 16490  double system on Palomar plates, theta=100, rho= 20 arcsec,
+ 16490    Delta B= 2 mag
+ 16713  component A = IX Per
+ 16846  component A = V711 Tau
+ 17448  component A = omi Per
+ 17465  joint system: IC 348 14/ 20
+ 17572  joint system: Melotte 22  800 (B)/ 801 (A)
+ 17600  component A = S For
+ 17923  joint system: Melotte 22  2500 (C)/ 2503 (B)/ 2507 (A)
+ 18322  erroneously identified with BD +12 530 in the literature
+ 18377  not detected by the satellite at the expected position or with
+ 18377    the expected intensity
+ 18972  component A = RW Tau
+ 19201  component A = AG Per
+ 19261  joint system: Melotte 25  11 (A)/ 12 (B)
+ 19272  joint system: NGC 1502  1 (A)/ 4 (C)
+ 19424  component A = U Men
+ 19849  erroneously identified with DY Eri in the literature
+ 20338  companion of HIC 20342, theta= 330, rho= 61 arcsec
+ 20342  companion of HIC 20338
+ 20632  double system: theta= 2, rho= 28 arcsec, Delta V= 2.1 mag
+ 20648  component A = V776 Tau
+ 20990  component A = UX Tau
+ 21185  not LHS 193 (error in HIC identification)
+ 21222  triple system AB: theta= 320, rho= 34 arcsec, Delta B= 1.1 mag
+ 21222                AC: theta= 170, rho= 27 arcsec, Delta B= 1.2 mag
+ 21256  erroneously identified with McC 744 or G 8-23 in the literature
+ 21278  component A = EH Eri
+ 21492  not detected by the satellite at the expected position or with
+ 21492    the expected intensity
+ 21763  component A = DM Eri
+ 21986  component B = DW Eri
+ 22105  other identification: Melotte 25 8067
+ 22176  other identification: Melotte 25 164
+ 22260  component A = XZ Men
+ 23873  component A = RW Aur
+ 24575  component A = AE Aur
+ 25050  component A = UV Aur
+ 25281  component A = eta Ori
+ 25473  component A = psi Ori
+ 25733  component A = LY Aur
+ 25921  not detected by the satellite at the expected position or with
+ 25921    the expected intensity
+ 25966  double system: theta= 55, rho= 25 arcsec, Delta m= 0.6 mag
+ 26220  joint system: NGC 1977  587 (B = V1016 Ori)/ 595 (D = BM Ori)/
+ 26220    584 (H)
+ 26950  not detected by the satellite at the expected position or with
+ 26950    the expected intensity
+ 27656  erroneously identified with CD -41 2185 in the literature
+ 27989  component A = alf Ori
+ 28380  component A = tet Aur
+ 28436  erroneously identified with CPD -65 633 in the literature
+ 29055  probably fainter than indicated: 11.22 < V < 12.11 according
+ 29055    to GCVS
+ 29100  not detected by the satellite at the expected position or with
+ 29100    the expected intensity
+ 29170  component B = NSV 2849
+ 29385  optical pair with CD -35 2745 (satellite target is the faint
+ 29385    component at the NW)
+ 29401  component A = V638 Mon
+ 29655  component A = eta Gem
+ 30214  component A = FR CMa
+ 30920  component B = V577 Mon
+ 31070  not detected by the satellite at the expected position or with
+ 31070    the expected intensity
+ 31153  error in HIC identification (BD +14 1330 is at alpha = 06 32 12.0,
+ 31153    delta = +14 27 50)
+ 31292  physical pair with HIC 31293, rho= 23 arcsec, theta= 215,
+ 31292    Delta B= 1.0 mag
+ 31293  physical pair with HIC 31292
+ 31349  erroneous proper motion in AGK3
+ 31437  not detected by the satellite at the expected position or with
+ 31437    the expected intensity
+ 32270  erroneous position in NLTT
+ 32349  Sirius. The adopted proper motion is the combination of the proper
+ 32349    motion of the centre of gravity of the system and of the
+ 32349    orbital motion. The adopted value is valid for the mean
+ 32349    epoch of the Hipparcos mission. An ephemeris is given in the
+ 32349    introduction to Annex 1 (field 5)
+ 32504  other identification: Collinder 121 37
+ 33324  erroneously identified with CPD -56 1692 in the literature
+ 34117  not detected by the satellite at the expected position or with
+ 34117    the expected intensity
+ 34234  component A = V569 Mon
+ 34299  erroneously identified with BD -04 1825 in the literature
+ 34301  component A = FN CMa
+ 35381  double system: theta= 180, rho= 12 arcsec
+ 35381    (this entry is the northern component)
+ 35793  component A = VY CMa
+ 36188  component A = bet CMi
+ 36347  double system from ESO plate measurements, Delta B= 3 mag
+ 36649  not detected by the satellite at the expected position or with
+ 36649    the expected intensity
+ 37279  Procyon. The adopted proper motion is the combination of the proper
+ 37279    motion of the centre of gravity of the system and of the orbital
+ 37279    motion. The adopted value is valid for the mean epoch of the
+ 37279    Hipparcos mission. An ephemeris is given in the introduction
+ 37279    to Annex 1 (field 5)
+ 38014  not detected by the satellite at the expected position or with
+ 38014    the expected intensity
+ 38256  not detected by the satellite at the expected position or with
+ 38256    the expected intensity
+ 38398  not detected by the satellite at the expected position or with
+ 38398    the expected intensity
+ 38575  erroneously identified with SAO 116086 in the literature
+ 38692  joint system: Trumpler 9  62/ 63
+ 38957  component A = V Pup
+ 38966  joint system: NGC 2516  130 (A)/ 210 (B)
+ 39329  component A = QQ Pup
+ 39652  erroneously identified with CD -39 3991 in the literature
+ 39656  erroneously identified with CD -39 3987 in the literature
+ 39826  erroneous proper motion in AGK3
+ 39840  erroneously identified with BD -16 231 in the literature
+ 40831  double on ESO plates, rho= 23 arcsec
+ 40935  not detected by the satellite at the expected position or with
+ 40935    the expected intensity
+ 40977  component A = V Cnc
+ 41361  component A = NO Pup
+ 41979  erroneously identified with BD +20 2113 and  AGK +20 985
+ 41979    in the literature
+ 42366  erroneously identified with CD -50 1691 in the literature
+ 42712  component A = HX Vel
+ 42988  other identification: IC 2391 46
+ 43071  other identification: IC 2391 49
+ 43406  error in HIC identification (LHS 2056 is about 30 arcsec SW of
+ 43406    the target)
+ 43851  erroneously identified with NSV 4310 in the literature
+ 44232  other identification: Collinder 205 2
+ 44243  other identification: Collinder 205 1
+ 45170  component P = GL 337B
+ 45792  not detected by the satellite at the expected position or with
+ 45792    the expected intensity
+ 45908  erroneously identified with CPD -59 2351 in the literature
+ 45954  erroneous position in NLTT
+ 46586  not detected by the satellite at the expected position or with
+ 46586    the expected intensity
+ 46806  component A = R Car
+ 46899  erroneously identified with BD -10 2681 in the literature
+ 47145  component A = IM Vel
+ 47480  erroneously identified with LHS 2169 (which is at 66 arcsec,
+ 47480    theta= 220) in the literature
+ 47694  component A = IP Vel
+ 47727  component A = W UMa
+ 48218  component B = DG Leo
+ 49616  erroneously identified with GL 385 in the literature
+ 50640  not detected by the satellite at the expected position or with
+ 50640    the expected intensity
+ 50829  component B = NSV 4836
+ 51612  companion at rho= 25 arcsec, Delta m= 2 mag
+ 51802  component A = TX Leo
+ 52526  component A = QZ Car
+ 54131  not detected by the satellite at the expected position or with
+ 54131    the expected intensity
+ 54299  not detected by the satellite at the expected position or with
+ 54299    the expected intensity
+ 54360  component A = V815 Cen
+ 54365  not detected by the satellite at the expected position or with
+ 54365    the expected intensity
+ 54724  erroneous proper motion in SAO
+ 55052  double on ESO plates, theta= 75, rho= 12.4 arcsec,
+ 55052    Delta B > 2 mag
+ 55106  component A = SV Crt
+ 56327  erroneously identified with BD -11 3122 in the literature
+ 56518  component A = V763 Cen
+ 56991  component A = UZ Cen
+ 57936  component A = bet Hya
+ 59219  erroneously identified with BD +22 233 in the literature
+ 59683  component A = AH Vir
+ 60197  joint system: Melotte 111  72 (B)/ 73 (A)
+ 60417  erroneously identified with CPD -66 1212 in the literature
+ 60500  component A = FK Vir
+ 60557  joint system: NGC 4337  17 (A)/ 18 (B)
+ 60878  this component B is at 1196.3 arcsec from A
+ 60936  3C 273
+ 61826  erroneously identified with BD -15 3342 in the literature
+ 62038  not detected by the satellite at the expected position or with
+ 62038    the expected intensity
+ 62967  not detected by the satellite at the expected position or with
+ 62967    the expected intensity
+ 63494  component B = NSV 6053
+ 64094  component A = tet Mus
+ 65182  not detected by the satellite at the expected position or with
+ 65182    the expected intensity
+ 65977  component A = V701 Cen
+ 66187  not detected by the satellite at the expected position or with
+ 66187    the expected intensity
+ 66307  erroneous proper motion in CPC2
+ 66747  not detected by the satellite at the expected position or with
+ 66747    the expected intensity
+ 66934  erroneous proper motion in SAO
+ 67090  optical double system
+ 67261  component A = V766 Cen
+ 67487  erroneous position in CPC2
+ 68264  erroneously identified with CPD -40 4376 in the literature
+ 68702  component A = bet Cen
+ 69454  erroneously identified with CPD -56 5362 and
+ 69454    IDS 14064 S 5617 B in the literature
+ 69972  erroneously identified with CPD -58 5564 in the literature
+ 70958  not detected by the satellite at the expected position or with
+ 70958    the expected intensity
+ 70890  Proxima Centauri
+ 71681  = alpha Centauri B. The adopted proper motion is the combination
+ 71681    of the proper motion of the centre of gravity of the system and
+ 71681    of the orbital motion. The adopted value is valid for the mean
+ 71681    epoch of the Hipparcos mission. An ephemeris is given in the
+ 71681    introduction to Annex 1 (field 5)
+ 71683  = alpha Centauri A. The adopted proper motion is the combination
+ 71683    of the proper motion of the centre of gravity of the system and
+ 71683    of the orbital motion. The adopted value is valid for the mean
+ 71683    epoch of the Hipparcos mission. An ephemeris is given in the
+ 71683    introduction to Annex 1 (field 5)
+ 71766  not detected by the satellite at the expected position or with
+ 71766    the expected intensity
+ 71876  component A = DL Dra
+ 72436  erroneous right ascension in NLTT
+ 72659  component A = ksi Boo
+ 73695  component A = 44 Boo; component B = i Boo (variable component)
+ 74192  component A = T TrA
+ 74332  double system: theta= 50, rho= 25 arcsec, Delta V= 3.6 mag
+ 74386  component A = FL Ser
+ 74838  double system: theta= 165, rho= 21 arcsec, Delta V= 1.4 mag
+ 75695  component A = bet CrB
+ 75727  component A = GO Lup
+ 76196  component A = TW Dra
+ 76276  component A = del Ser
+ 76334  not detected by the satellite at the expected position or with
+ 76334    the expected intensity
+ 76377  component A = R Nor
+ 76952  component A = gam CrB
+ 77157  not detected by the satellite at the expected position or with
+ 77157    the expected intensity
+ 77895  double system: theta= 100, rho= 25 arcsec, Delta V= 3.0 mag
+ 78233  double system: theta= 25, rho= 20 arcsec, Delta V= 3.5 mag
+ 78528  not detected by the satellite at the expected position or with
+ 78528    the expected intensity
+ 78999  erroneously identified with BD -05 4242 in the literature
+ 79080  C component = V856 Sco
+ 79126  proper motion derived from the position in the GSC and in AC
+ 79212  component A = EQ TrA
+ 79607  component A = TZ CrB
+ 79734  double system: theta= 185, rho= 15 arcsec, Delta V= 3.5 mag
+ 79844  not detected by the satellite at the expected position or with
+ 79844    the expected intensity
+ 80463  component A = ome Her
+ 80509  double system: theta= 205, rho= 24 arcsec, Delta V= 3.0 mag
+ 80706  not detected by the satellite at the expected position or with
+ 80706    the expected intensity
+ 80763  component A = alf Sco
+ 80851  double system: theta= 35, rho= 26 arcsec, Delta V= 0.9 mag
+ 81455  CD -29 12698, not  CD -29 12689 (error in YZ and SAO)
+ 81490  not detected by the satellite at the expected position or with
+ 81490    the expected intensity
+ 81519  component A = WW Dra
+ 81538  error in HIC position: target is 25 arcsec from BD+52 1986
+ 81538    (alpha=16 39 73.88, delta=+52 37 37.7)
+ 81582  double system: theta= 25, rho= 28 arcsec, Delta V= 2.5 mag
+ 81589  component A = R Ara
+ 81960  double system: theta= 50, rho= 30 arcsec, Delta V= 0.2 mag
+ 82321  component A = V637 Her
+ 83059  component A = RV Sco
+ 83070  double system: theta= 225, rho= 15 arcsec, Delta V= 3.6 mag
+ 84289  component A = V655 Her
+ 84293  component A = AK Her
+ 84345  component A = alf Her
+ 84573  component A = u Her
+ 84708  double system: theta= 360, rho= 16 arcsec, Delta B= 0.3 mag
+ 85302  component A = V640 Her
+ 85467  component A = V750 Ara
+ 85622  component B = NSV 8918
+ 86062  erroneous proper motion in SAO
+ 86101  error on BD number in YZ
+ 86789  double system: theta= 300, rho= 11 arcsec, Delta V= 2.6 mag
+ 86873  component A = SZ Sgr
+ 86892  double system: theta= 10, rho= 23 arcsec, Delta V= 2.9 mag
+ 87345  component A = RY Sco
+ 87482  double system: theta= 205, rho= 10 arcsec, Delta V= 3.8 mag
+ 87616  component A = V906 Sco
+ 87937  Barnard's star
+ 88069  component A = V1647 Sgr
+ 88438  not detected by the satellite at the expected position or with
+ 88438    the expected intensity
+ 88495  satellite target is CPC 21.1 4198 = CPD -64 3774,
+ 88495    probably not L 157-110
+ 88643  double system: theta= 190, rho= 11 arcsec, Delta V= 3.0 mag
+ 88827  erroneously identified with BD +01 3597 in the literature
+ 89057  double system: theta= 135, rho= 25 arcsec, Delta V= 4.2 mag
+ 89156  component B = NSV 10363
+ 89163  double system: theta= 20, rho= 10 arcsec, Delta V= 2.4 mag
+ 89299  companion of AGK +49 1397 = SAO 47320, rho= 14 arcsec
+ 89642  component A = eta Sgr
+ 89908  component A = phi Dra
+ 90008  this star is CD -47 12228, not CD -47 12218
+ 90048  triple system:  AB: theta= 40, rho= 20 arcsec, Delta V > 3 mag
+ 90048                  AC: theta= 315, rho= 28 arcsec, Delta V= 1.8 mag
+ 90441  component A = d Ser
+ 90474  probably fainter than expected
+ 90539  double system: rho < 5 arcsec from Palomar plates
+ 90959  variability and photoelectric data are not coherent
+ 91256  double system: rho= 9 arcsec from ESO plates
+ 91389  component A = X Oph
+ 91924  not detected by the satellite at the expected position or with
+ 91924    the expected intensity
+ 92221  double system: theta= 305, rho= 12 arcsec, Delta V= 0.3 mag
+ 92414  component A = AD Her
+ 92499  erroneous proper motion in SAO, correct in CPC
+ 92536  not detected by the satellite at the expected position or with
+ 92536    the expected intensity
+ 93124  component A = FF Aql
+ 93605  component A = SU Sgr
+ 94155  double system: theta= 320, rho= 20 arcsec, Delta V= 3.9 mag
+ 94197  not detected by the satellite at the expected position or with
+ 94197    the expected intensity
+ 94368  erroneously identified with CPD -56 7638 in the literature
+ 94827  component A = ES Vul
+ 94982  component A = V1208 Aql
+ 95024  component A = U Lyr
+ 95198  not detected by the satellite at the expected position or with
+ 95198    the expected intensity
+ 95672  double system: theta= 0, rho= 13 arcsec; component B < 11 mag
+ 95676  probably fainter than expected
+ 95820  component A = U Aql
+ 96007  component A = V822 Aql
+ 96108  not detected by the satellite at the expected position or with
+ 96108    the expected intensity
+ 96480  component A = V1744 Cyg
+ 96515  double system: theta= 200, rho= 8 arcsec, Delta V < 2 mag
+ 96840  component A = QS Aql
+ 97091  component A = PS Vul
+ 97241  double system: theta= 330, rho= 15 arcsec, Delta V= 0.9 mag
+ 98237  double system: theta= 320, rho= 8 arcsec
+ 99002  component A = V1676 Cyg
+ 99085  component B = RY Cap
+ 99283  joint system: Biurakan 2  130 (B)/ 131 (A)
+ 99397  not detected by the satellite at the expected position or with
+ 99397    the expected intensity
+ 99629  double system: theta= 305, rho= 40 arcsec, Delta V= 1.4 mag
+ 99675  component A = V695 Cyg
+100048  erroneous proper motion in AGK3
+100227  component A = V478 Cyg
+100287  component A = V1687 Cyg
+100383  not detected by the satellite at the expected position or with
+100383    the expected intensity
+100515  component B = NSV 13053
+100695  double system: rho= 32 arcsec, Delta V= 1.1 mag
+101341  component A = V729 Cyg
+101750  component A = VW Cep
+101972  erroneous proper motion in GC and SAO
+102352  not detected by the satellite at the expected position or with
+102352    the expected intensity
+102571  component A = T Cyg
+102817  physical pair with LP 928-63 at 23 arcsec, theta= 270
+103542  component A = KZ Pav
+103766  other identification: Woolley 9715
+104371  component A = V389 Cyg
+104521  component A = gam Equ
+104887  component A = tau Cyg
+105539  erroneous proper motion in AGK3
+105638  probably fainter than expected
+106161  erroneously identified with G 26-8 = BD -02 5557 in the
+106161    literature
+106774  other identification: IC 1396 452
+106843  other identification: IC 1396 171
+106998  not LHS 3700 (G 213-9). Error in HIC identification
+107156  not SS Cyg. Error in HIC identification. Good coordinates (J2000) for
+107156    SS Cyg: alpha=21 42 42.6 delta=+43 35 09, at theta= 75,
+107156    rho= 252 arcsec from star indicated on the chart
+107164  other identification: IC 1396 750
+107259  other identification: IC 1396 1319
+107594  component A = AP Cap
+108426  component A = IR Cep
+108797  component A = DX Aqr
+109930  not detected by the satellite at the expected position or with
+109930    the expected intensity
+110478  component A = pi.01 Gru
+110892  erroneous proper motion in SAO
+110893  Kruger 60 (component A = NSV 14168; component B = DO Cep). The
+110893    proper motion, taken from AGK3, is given for the centre of
+110893    gravity of the system.  The orbital motion produces a small
+110893    deviation from this value
+111293  error in HIC position: target is 80 arcsec from LHS 525
+111293    (alpha=22 32 54.22 delta=+53 47 39.2)
+111363  double system: theta= 5, rho= 22 arcsec, Delta V= 2.4 mag
+111400  component A = V362 Lac
+111692  CD -29 18408, not CD -29 18404 (error in YZ and SAO)
+111858  not detected by the satellite at the expected position or with
+111858    the expected intensity
+111932  double system: theta= 295, rho= 19 arcsec, Delta V= 0.6 mag
+113017  component A = IL Cep
+113652  erroneously identified with HD 215173 in the literature
+113738  component A = NN Cep
+113802  component A = LN And
+114092  erroneously identified with AGK +61 1415 in the literature
+114107  erroneously identified with AGK +61 1413 in the literature
+114669  component B = NSV 14460
+114994  optical pair, see Giclas chart. The faint component is LHS 3923,
+114994    G 190-17. The bright component is BD +37 4803 and has a very
+114994    small proper motion. Separation estimation from Palomar plates
+114994    (epoch 1953.8): 24 arcsec (10 arcsec in 1990)
+115344  CPD -37 9332, not CPD -37 9232 (error in the literature)
+115715  erroneous proper motion in GC and SAO; correct in NLTT and Giclas
+115990  component A = AR Cas
+115993  not detected by the satellite at the expected position or with
+115993    the expected intensity
+116214  doubtful magnitudes
+116389  component A = iot Phe
+116430  the large proper motion from SAO and NLTT seems questionable,
+116430    and is not retained
+117011  erroneous proper motion in LTT, correct in NLTT
+117114  CD -62 1460, not CD -62 1464 (error in NLTT)
+117154  other identification: V405 Cas
+117595  double system: theta= 330, rho= 29 arcsec, Delta V= 3.1 mag
+117779  double system: theta= 310, rho= 22 arcsec, Delta V= 1.3 mag
+117987  central star of a reflection nebula
+118209  component B = NSV 14785
+120159  there is a faint optical companion at rho= 13 arcsec,
+120159    theta= 170, Delta m= 1 mag
+120212  erroneously identified with AGK +01 1462 in the literature
+120229  not detected by thesatellite at the expected position or with
+120229    the expected intensity
+120248  erroneously identified with BD +66 466 and AGK +66 355
+120248    in the literature
